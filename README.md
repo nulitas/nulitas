@@ -4,7 +4,7 @@
 {
   "fullname": "Andra R. Pratama",
   "country": "Indonesia",
-  "about": "loves games, anime, music, and other tech stuff.",
+  "about": "-",
   "language": "Indonesia & English",
   "learning_tech": {
     "front_end": ["ReactJS", "Code Igniter 4"],
