@@ -9,7 +9,7 @@
     "front_end": ["ReactJS", "Code Igniter 4"],
     "back_end": ["Laravel"],
     "database": ["Mysql", "NoSql"],
-    "machine_learning": ["Python"]
+    "machine_learning": ["Python", "TensorFlow", "PyTorch"]
   }
 }
 ```
