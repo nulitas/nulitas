@@ -4,10 +4,10 @@
 {
   "fullname": "Andra R. Pratama",
   "country": "Indonesia",
-  "position": "West Jakarta"; 
+  "position": "West Jakarta", 
   "language": "Indonesia & English",
   "pronouns": "He/Him",
-  "current_focus": "Mastering React.js & friends",
+  "current_focus": "Mastering React.js & friends"
 }
 ```
 
